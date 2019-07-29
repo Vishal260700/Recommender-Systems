@@ -9,7 +9,11 @@
 # Jupyter Notebook Contents
 
 1. Content Based
-2. Collabrative Filtering
+2. Collabrative Filtering (KNN Model)
+
+# Similiarity
+
+1. Cosine Similiarity
 
 # Dataset
 
